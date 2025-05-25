@@ -15,13 +15,12 @@ Es una pagina sencilla que incluye temas como maquillaje, uñas, pestañas, cuid
 ### Aprendido con este ejercicio
 
 - Uso adecuado de etiquetas HTML semanticas
-- Implementacion de una estructura adecuada para cada pagina:
-    '<header><nav><main><section><footer>'
-- Implementacion de citas, referencias:
-    '<blockquote><q><abbr><addres><bdo>'
-- Aplicacion de formatos de texto:
-    '<b><strong><i><em><mark><small><del><ins><sub><sup>'
-- Aplicacion de estilos
+- Implementación de una estructura adecuada para cada página:  
+  `<header><nav><main><section><footer>`
+- Implementación de citas, referencias:  
+  `<blockquote><q><abbr><address><bdo>`
+- Aplicación de formatos de texto:  
+  `<b> <strong><i><em><mark><small><del><ins><sub><sup>`
 - Aplicacion de colore rgb y HEX
 - Uso de comentarios HTML 
 - Imagenes con atributos alt y title
