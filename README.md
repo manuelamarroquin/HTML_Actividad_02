@@ -16,11 +16,11 @@ Es una pagina sencilla que incluye temas como maquillaje, uñas, pestañas, cuid
 
 - Uso adecuado de etiquetas HTML semanticas
 - Implementacion de una estructura adecuada para cada pagina:
-    <header><nav><main><section><footer>
+    '<header><nav><main><section><footer>'
 - Implementacion de citas, referencias:
-    <blockquote><q><abbr><addres><bdo>
+    '<blockquote><q><abbr><addres><bdo>'
 - Aplicacion de formatos de texto:
-    <b><strong><i><em><mark><small><del><ins><sub><sup>
+    '<b><strong><i><em><mark><small><del><ins><sub><sup>'
 - Aplicacion de estilos
 - Aplicacion de colore rgb y HEX
 - Uso de comentarios HTML 
